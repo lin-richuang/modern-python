@@ -28,6 +28,12 @@ def black(session):
     session.run("black", *args)
 
 
+@nox.session(python='3.8')
+def docs(session) -> None:
+    """Build documentations"""
+    session.install("sphinx")
+    session.run("sphinx-build", "docs", "docs/_build")
+
 # def install_with_constraints(session, *args, **kwargs):
 #     with tempfile.NameTemporaryFile() as requirements:
 #         session.run(

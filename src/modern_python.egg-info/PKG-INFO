@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: modern-python
+Version: 0.1.0
+Summary: The modern Python project
+Home-page: https://github.com/lin-richuang/modern-python
+Author: Richuang Lin
+Author-email: lin.richuang@bcg.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7,<4.0

@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/modern_python/__init__.py
+src/modern_python/console.py
+src/modern_python/wikipedia.py
+src/modern_python.egg-info/PKG-INFO
+src/modern_python.egg-info/SOURCES.txt
+src/modern_python.egg-info/dependency_links.txt
+src/modern_python.egg-info/entry_points.txt
+src/modern_python.egg-info/requires.txt
+src/modern_python.egg-info/top_level.txt

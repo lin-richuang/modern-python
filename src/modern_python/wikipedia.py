@@ -1,11 +1,14 @@
-import requests
+from dataclasses import dataclass
+
 import click
 
-API_URL = "https://{language}.wikipedia.org/api/rest_v1/page/random/summary"
+import requests
+
+API_URL: str = "https://{language}.wikipedia.org/api/rest_v1/page/random/summary"
 
 
-def random_page(language = 'en'):
-    url = API_URL.format(language = language)
+def random_page(language: str = "en") -> Page:
+    url = API_URL.format(language=language)
     try:
         with requests.get(url) as response:
             response.raise_for_status()
@@ -13,3 +16,9 @@ def random_page(language = 'en'):
     except requests.RequestException as error:
         message = str(error)
         raise click.ClickException(message)
+
+
+@dataclass
+class Page:
+    title: str
+    extract: str

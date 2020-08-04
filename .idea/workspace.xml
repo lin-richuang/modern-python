@@ -2,16 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee92bc75-f34b-403e-a082-f0e90d5d3d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/noxfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modern_python/wikipedia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/test_console.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/test_wikipedia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modern-python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modern_python.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modern_python.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modern_python.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modern_python.egg-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modern_python.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modern_python.egg-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noxfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/noxfile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modern_python/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modern_python/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modern_python/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modern_python/console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modern_python/wikipedia.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modern_python/wikipedia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test_console.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/test_console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/test_wikipedia.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/test_wikipedia.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,24 +36,74 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="2365a248-edd3-4c3b-b54f-69cc6bbcea4b" />
+  <component name="ProjectId" id="1fdLBedfcrlyCMu5U16zjuaaIjU" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="Unnamed" created="1596546336002" text=".flake8" recursive="false" caseInsensitive="false" type="XML" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee92bc75-f34b-403e-a082-f0e90d5d3d38" name="Default Changelist" comment="" />
+      <created>1596542888849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596542888849</updated>
+      <workItem from="1596542890392" duration="4950000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596545573583">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="304" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.947@0.23.1680.947" timestamp="1596545573583" />
+    <state x="581" y="296" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596546497769">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="581" y="296" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.947@0.23.1680.947" timestamp="1596546497769" />
+    <state x="376" y="323" width="927" height="347" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1596546335972">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="376" y="323" width="927" height="347" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.23.1680.947@0.23.1680.947" timestamp="1596546335972" />
+    <state x="349" y="135" key="SettingsEditor" timestamp="1596544097087">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="349" y="135" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1596544097087" />
+    <state x="542" y="235" width="596" height="522" key="find.popup" timestamp="1596546397351">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="542" y="235" width="596" height="522" key="find.popup/0.23.1680.947@0.23.1680.947" timestamp="1596546397351" />
   </component>
 </project>
